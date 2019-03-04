@@ -36,7 +36,7 @@ The following libraries are required to run the code. All of them can be downloa
 6. PIL
 7. shutil
 
-Add both the two given video folders and the text file into the same directory where the code is located.
+Add both the two given video folders and the text file (https://drive.google.com/drive/folders/1wVwr0_jvsvUR-X2gmWj-iBHqURJHUGVd) into the same directory where the code is located.
 
 ### 1.3. Running the Code ###
 The code can be run Jupyter Notebook.
